@@ -1,4 +1,4 @@
-# webster2.0
+# Webster 2.0
 We welcome you all to this event, WEBSTER 2.0, a designing event that’ll take you through a fascinating journey of designing a website. 
 In this event the registered participant will be given a zipped folder of a blank website with which they have to use and design a website out of their imagination, using different coding languages like HTML, CSS, JS, J-QUERY according to their knowledge.
 #### Here are the RULES OF THE COMPETITION 📣
